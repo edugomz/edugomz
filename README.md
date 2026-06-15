@@ -44,7 +44,7 @@ I specialize in designing and operating systems that handle **real-time telemetr
 
 ## ⚙️ Tech stack
 
-**Languages:** C++, Rust, Go, Python  
+**Languages:** C++, Python, Rust, Go  
 **Systems:** Linux, Networking (TCP/IP, MQTT, DDS)  
 **Infrastructure:** Docker, CI/CD, GCP  
 **Data:** PostgreSQL, PostGIS, Redis  
@@ -58,8 +58,4 @@ I specialize in designing and operating systems that handle **real-time telemetr
 - Developed geospatial ingestion pipelines handling **50GB+ datasets**  
 - Worked across **edge devices, backend services, and cloud platforms** in production systems  
 
----
 
-## 🎯 Focus areas
-
-Distributed Systems • Platform Engineering • Real-Time Systems • Backend Infrastructure
