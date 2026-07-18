@@ -22,26 +22,6 @@ I specialize in designing and operating systems that handle **real-time telemetr
 
 ---
 
-## 🚀 What I work on
-
-- Distributed systems for real-time data processing  
-- Platform engineering and infrastructure automation  
-- Edge-to-cloud architectures with event-driven communication  
-- Configuration-driven systems for multi-deployment environments  
-- High-throughput data pipelines for geospatial and telemetry workloads  
-
----
-
-## 🧠 Core expertise
-
-- Distributed Systems Architecture  
-- Platform Engineering & Infrastructure  
-- Real-Time Systems & Low-latency Processing  
-- Systems Programming (C++, Rust, Go)  
-- Backend Infrastructure Design  
-
----
-
 ## ⚙️ Tech stack
 
 **Languages**
@@ -50,6 +30,15 @@ I specialize in designing and operating systems that handle **real-time telemetr
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</p>
+
+**Tooling**:
+<p>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"</img>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Microsoft Visual Studio">
+<img src="https://img.shields.io/badge/Conan-6699CB?logo=conan&logoColor=fff&style=flat-square"</img>
+<img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</img>
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"</img>
 </p>
 
 **Systems & Networking**
@@ -72,14 +61,16 @@ I specialize in designing and operating systems that handle **real-time telemetr
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-<p>
-     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"</img>
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Microsoft Visual Studio"></a>
-      <img src="https://img.shields.io/badge/Conan-6699CB?logo=conan&logoColor=fff&style=flat-square"</img>
-    <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</img>
-      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"</img>
+---
 
-</p>
+## 🚀 What I work on
+
+- Distributed systems for real-time data processing  
+- Platform engineering and infrastructure automation  
+- Edge-to-cloud architectures with event-driven communication  
+- Configuration-driven systems for multi-deployment environments  
+- High-throughput data pipelines for geospatial and telemetry workloads  
+
 ---
 
 ## 📌 Experience highlights
@@ -88,5 +79,4 @@ I specialize in designing and operating systems that handle **real-time telemetr
 - Designed configuration and deployment systems for distributed edge infrastructures  
 - Developed geospatial ingestion pipelines handling **50GB+ datasets**  
 - Worked across **edge devices, backend services, and cloud platforms** in production systems  
-
 
