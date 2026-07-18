@@ -72,6 +72,14 @@ I specialize in designing and operating systems that handle **real-time telemetr
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
+<p>
+     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"</img>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Microsoft Visual Studio"></a>
+      <img src="https://img.shields.io/badge/Conan-6699CB?logo=conan&logoColor=fff&style=flat-square"</img>
+    <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"</img>
+      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"</img>
+
+</p>
 ---
 
 ## 📌 Experience highlights
